@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(36,36,36);
+}
+
+textarea::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+/* Atur warna scrollbar sesuai kebutuhan Anda */
+textarea::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Atur warna thumb scrollbar sesuai kebutuhan Anda */
+textarea::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+/* footer {
+  background: rgb(150,133,219);
+  background: linear-gradient(350deg, rgba(150,133,219,1) 0%, rgba(239,102,100,1) 100%);
+} */
+
+.remove-arrow::-webkit-inner-spin-button,
+.remove-arrow::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.remove-arrow {
+    -moz-appearance: textfield;
+}
