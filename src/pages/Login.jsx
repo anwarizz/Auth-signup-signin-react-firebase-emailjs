@@ -60,7 +60,7 @@ export default function Login() {
   return (
     <div className='w-full h-[100vh] bg-[rgb(36,36,36)]'>
         <div className='xl:w-[1200px] m-auto flex flex-col items-center gap-3 pt-[80px]'>
-            <h2 className='font-mono font-bold text-[18px] w-full text-center text-white mb-[10px]'>Sign in to <span className='text-green-400'>Ulangan.online</span></h2>
+            <h2 className='font-mono font-bold text-[18px] w-full text-center text-white mb-[10px]'>Sign in to <span className='text-green-400'>My app</span></h2>
             <form onSubmit={submit} className='bg-[rgb(44,49,51)] text-white flex flex-col gap-4 w-[300px] items-center pt-7 pb-7 rounded-lg'>
                 {errorCus.invalidEmail ? (
                   <p className='text-red-400 text-[10px] w-full pl-6'>Email tidak tersedia atau belum terdaftar!</p>
