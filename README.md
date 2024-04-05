@@ -1,8 +1,16 @@
-# React + Vite
+Saya membuat ini supaya dikemudian hari ketika saya membutuhkan sistem otentikasi dengan teknolgi yang sama, saya tidak perlu membuatnya dari awal.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# How to use
+1. Clone repositori ke mesin lokal Anda:
+`git clone https://github.com/gettingdev/Auth-signup-signin-sytem-with-react-firebase-mailjs`
 
-Currently, two official plugins are available:
+2. Pasang dependensi yang diperlukan (Saya juga menggunakan tailwind)
+   
+3. Siapkan firebase
+- Buat proyek Firebase di Firebase Console `[Firebase Console](https://console.firebase.google.com/)`
+- Dapatkan pengaturan konfigurasi Firebase untuk proyek Anda
+- Ganti konfigurasi Firebase di src/firebase/firebaseConfig.js dengan pengaturan Anda sendiri
+- Aktifkan otentikasi Email/Kata Sandi di Firebase Console
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
