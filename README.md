@@ -9,7 +9,7 @@ Saya membuat ini supaya dikemudian hari ketika saya membutuhkan sistem otentikas
 3. Siapkan firebase
 - Buat proyek Firebase di [Firebase Console](https://console.firebase.google.com/)
 - Dapatkan pengaturan konfigurasi Firebase untuk proyek Anda
-- Ganti konfigurasi Firebase di src/firebase/firebaseConfig.js dengan pengaturan Anda sendiri
+- Ganti konfigurasi Firebase di `.env` dengan pengaturan Anda sendiri
 - Aktifkan otentikasi Email/Kata Sandi di Firebase Console
 
 
