@@ -20,5 +20,5 @@ Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan
 5. Mulai server pengembangan
 - Saya mengguanakan vite, jadi saya dapat menjalankannya dengan `npm run dev`
 
-`Catatan: Jika Anda tidak menggunakan Vite, Anda mungkin perlu menyesuaikan cara mengakses file .env. Mohon periksa bagaimana cara mengaksesnya dalam lingkungan frontend Anda!`
+Catatan: Jika Anda tidak menggunakan Vite, Anda mungkin perlu menyesuaikan cara mengakses file .env. Mohon periksa bagaimana cara mengaksesnya dalam lingkungan frontend Anda!
 
