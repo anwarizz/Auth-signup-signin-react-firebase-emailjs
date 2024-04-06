@@ -1,4 +1,4 @@
-Saya membuat ini supaya dikemudian hari ketika saya membutuhkan sistem otentikasi dengan teknolgi yang sama, saya tidak perlu membuatnya dari awal.
+Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan teknologi yang sama, saya tidak perlu membuatnya dari awal.
 
 # How to use
 1. Clone repositori ke mesin lokal Anda:
