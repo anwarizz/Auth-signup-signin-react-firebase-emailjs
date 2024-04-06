@@ -17,4 +17,6 @@ Saya membuat ini supaya dikemudian hari ketika saya membutuhkan sistem otentikas
 - Ganti kunci API MailJS dan detail pengirim email di `.env` dengan milik Anda sendiri
 - Selengkapnya tentang emailjs 👉 https://www.emailjs.com/docs/
 
+4. Mulai server pengembangan
+- Saya mengguanakan vite, jadi saya dapat menjalankannya dengan `npm run dev`
 
