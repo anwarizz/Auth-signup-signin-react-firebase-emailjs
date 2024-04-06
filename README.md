@@ -2,7 +2,7 @@ Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan
 
 # How to use
 1. Clone repositori ke mesin lokal Anda:
-`git clone https://github.com/gettingdev/Auth-signup-signin-sytem-with-react-firebase-mailjs`
+`git clone https://github.com/gettingdev/Auth-signup-signin-sytem-with-react-firebase-emailjs`
 
 2. Pasang dependensi yang diperlukan (Saya juga menggunakan tailwind)
    
