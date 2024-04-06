@@ -1,4 +1,8 @@
 Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan teknologi yang sama, saya tidak perlu membuatnya dari awal.
+ 
+Mengapa menggunakan EmailJS? 
+Saya merasa bingung dan pusing tentang cara membuat template email custom dan mengirimkan kode verifikasi saat pengguna baru mendaftar. Untuk mengatasi hal ini, saya menemukan EmailJS sebagai solusi potensial. Namun, saya ingin memastikan apakah ini metode yang tepat dan efisien. Anda bisa berbagi informasi tentang cara mengirim kode verifikasi ke email pengguna yang baru mendaftar dengan metode lain yang lebih baik. Silakan hubungi saya kapanpun!
+
 
 # How to use
 1. Clone repositori ke mesin lokal Anda:
