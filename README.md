@@ -5,8 +5,9 @@ Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan
 `git clone https://github.com/gettingdev/Auth-signup-signin-sytem-with-react-firebase-emailjs`
 
 2. Pasang dependensi yang diperlukan (Saya juga menggunakan tailwind)
+- Periksa `package-lock.json` atau `package.json`
    
-3. Siapkan Firebase
+4. Siapkan Firebase
 - Buat proyek Firebase di [Firebase Console](https://console.firebase.google.com/)
 - Dapatkan pengaturan konfigurasi Firebase untuk proyek Anda
 - Ganti konfigurasi Firebase di `.env` dengan pengaturan Anda sendiri
