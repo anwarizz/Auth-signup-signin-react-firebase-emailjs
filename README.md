@@ -16,7 +16,7 @@ Saya membuat ini agar nantinya, ketika saya membutuhkan sistem otentikasi dengan
 
 4. Siapkan EmailJS
 - Daftar di MailJS dan dapatkan kunci API Anda
-- Ganti kunci API MailJS dan detail pengirim email di `.env` dengan milik Anda sendiri
+- Ganti kunci API MailJS di `.env` dengan milik Anda sendiri
 - Selengkapnya tentang EmailJS 👉 https://www.emailjs.com/docs/
 
 5. Mulai server pengembangan
